@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-js",
+  "version": "1.0.0",
+  "description": "Creating different type of functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NakasiDorothy/Intro-To-JS.git"
+  },
+  "author": "Dorothy Nakasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NakasiDorothy/Intro-To-JS/issues"
+  },
+  "homepage": "https://github.com/NakasiDorothy/Intro-To-JS#readme"
+}
